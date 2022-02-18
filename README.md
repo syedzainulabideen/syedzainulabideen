@@ -1,9 +1,3 @@
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
 Hi, I'm [Syed Zainulabideen](http://syedzainulabideen.github.io), a passionate iOS engineer with 9+ years of experience in developing mobile apps. I have an extreme passion to convert valuable ideas to great products..
 
 I'm also an open-source enthusiast and contributer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
