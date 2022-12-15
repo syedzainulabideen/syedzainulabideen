@@ -1,29 +1,34 @@
-Hi, I'm [Syed Zainulabideen](http://syedzainulabideen.github.io), a passionate iOS engineer with 9+ years of experience in developing mobile apps. I have an extreme passion to convert valuable ideas to great products..
+Hello there, I’m a passionate iOS engineer with 9+ years of experience in developing mobile apps. I have an extreme passion to convert valuable ideas into great products. Currently looking into multiple other things like Server Side Swift and React Native.
 
-I'm also an open-source enthusiast and contributer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+### Work Experience
 
+- [Darvis](https://darvis.com), Islamabad
+    
+    Senior iOS Developer ( Apr 2021 - Present )
+    
+- [VisionX](https://visionx.io), Islamabad
+    
+    Principal iOS Engineer ( Feb 2021 - Apr 2021 )
+    
+    Senior iOS Engineer ( Jan 2019 - ٖ Feb 2021 )
+    
+- [CareCloud (MTBC)](https://www.carecloud.com), Rawalpindi
+    
+    Senior Software Engineer - iOS ( Jul 2016 - Dec 2018 )
+    
+    Software Engineer - iOS ( Nov 2013 - Jun 2016 )
+    
+- VocalMatrix, Islamabad
+    
+    Software Engineer - iOS ( Oct 2012 - Oct 2013 )
+    
 
-  <img align="right" alt="GIF" src="https://images.pexels.com/photos/326518/pexels-photo-326518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=320&w=500" width="500" height="320" />
-  
-- 💼 If you have any excellent idea to hit the Appstore, let discuss and make that happen. [email](mailto:syed_zainulabideen@yahoo.com) :) <br />
-- 💬 Would love to help, if you need me regarding mobile apps platform.
+### Skills
 
-**Profiles:**
-
-<a href="https://www.instagram.com/s_zainulabideen/">
-  <img align="left" alt="Instagram Profile" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/s_zainulabideen">
-  <img align="left" alt="Twitter Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/syedzainulabideen/">
-  <img align="left" alt="Linkedin Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br /><br />
-
-
-
-**Languages and Tools:** 
-
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+- Languages
+    
+    Objective-C, Swift, Dart, Python
+    
+- Frameworks
+    
+    SwiftUI, Combine, ARKit, CoreML
