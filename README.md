@@ -1,4 +1,4 @@
-Hello there, I’m a passionate iOS engineer with 9+ years of experience in developing mobile apps. I have an extreme passion to convert valuable ideas into great products. Currently looking into multiple other things like Server Side Swift and React Native.
+Hello there, As a Senior iOS Engineer with over 10 years of experience in the industry, I have a strong background in Objective-C, Swift, and SwiftUI. My expertise in UIKit and Combine has allowed me to successfully enhance and manage AI/ML-based products for Darvis.
 
 Proud member of [Darvis](https://darvis.com)’s core team. To learn more about me visit [LinkedIn](https://www.linkedin.com/in/syedzainulabideen/) or [Twitter](https://twitter.com/s_zainulabideen)
 
