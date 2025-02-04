@@ -1,19 +1,31 @@
-As a highly experienced and passionate iOS engineer with over 10 years of experience in developing high-quality mobile apps, I have a strong track record of successfully turning valuable ideas into exceptional products. In addition to my expertise in iOS development, I am also actively exploring new technologies such as Server Side Swift and React Native to further enhance my skills and abilities. 
+### Hi there! 👋 I'm Syed Zainulabideen 
 
-Proud member of [Darvis](https://darvis.com)’s core team. To learn more about me visit [LinkedIn](https://www.linkedin.com/in/syedzainulabideen/) or [Twitter](https://twitter.com/s_zainulabideen)
+🚀 **Senior Mobile Engineer | 12+ Years of Experience**  
 
+With over a decade of experience in **iOS development**, I specialize in building **high-performance, scalable, and user-centric** applications for Apple’s ecosystem. I am passionate about **crafting seamless mobile experiences** with Swift, SwiftUI, and UIKit while continuously exploring new technologies to stay ahead in the ever-evolving mobile landscape.  
 
+### 🍏 iOS Development Expertise  
+- **Swift & Objective-C** – Writing clean, efficient, and maintainable code.  
+- **UIKit & SwiftUI** – Building pixel-perfect, high-performance UIs with native frameworks.  
+- **CoreData & Realm** – Designing optimized data storage solutions.  
+- **Concurrency & Performance** – Leveraging **GCD, Combine, and async/await** for smooth app performance.  
+- **Networking** – Implementing scalable APIs with **URLSession & Alamofire**.  
+- **Architectures** – Expert in **MVVM, VIPER, Clean Architecture** for maintainable codebases.  
+- **Testing & CI/CD** – Writing robust unit & UI tests and automating deployments with **XCTest, Fastlane, and GitHub Actions**.  
 
----
+### ⚡ Other Technologies  
+- **React Native & TypeScript** – Expanding cross-platform expertise while keeping a strong focus on native iOS development.  
+- **Backend & Cloud** – Exploring **AWS, Firebase, and Node.js** to build end-to-end mobile experiences.  
 
-[![My Skills](https://skillicons.dev/icons?i=swift,react&theme=light)]()
+### 🛠 Tech Stack  
+- **Languages**: Swift, Objective-C, TypeScript, JavaScript  
+- **Frameworks**: SwiftUI, UIKit, Combine, React Native  
+- **Databases**: CoreData, Realm, SQLite  
+- **Networking**: URLSession, Alamofire, GraphQL  
+- **Build Tools**: Xcode, Fastlane, CocoaPods, SPM  
 
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,github,githubactions,sqlite&theme=light)]()
+### 📫 Let's Connect!  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/syedzainulabideen/](https://www.linkedin.com/in/syedzainulabideen/) 
+- ✉️ **Email**: syed_zainulabideen@yahoo.com  
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,xd,figma&theme=light)]()
-
----
-
-### Latest Blog Posts
-
----
+💡 **Always open to discussing iOS architecture, Swift best practices, and app performance optimizations.** Let’s connect! 🚀  
