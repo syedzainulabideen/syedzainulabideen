@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Syed Zainulabideen 
 
-🚀 **Senior Mobile Engineer | 12+ Years of Experience**  
+🚀 **Technical Lead  |  Mobile Architect  |  Senior Mobile Engineer  |  12+ Years of Experience**  
 
 With over a decade of experience in **iOS development**, I specialize in building **high-performance, scalable, and user-centric** applications for Apple’s ecosystem. I am passionate about **crafting seamless mobile experiences** with Swift, SwiftUI, and UIKit while continuously exploring new technologies to stay ahead in the ever-evolving mobile landscape.  
 
